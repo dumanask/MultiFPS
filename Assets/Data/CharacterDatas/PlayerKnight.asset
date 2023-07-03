@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f1a463c50f332418a719322c1d5dc8, type: 3}
+  m_Name: PlayerKnight
+  m_EditorClassIdentifier: 
+  id: 4
+  displayName: PlayerKnight
+  icon: {fileID: 21300000, guid: 5c7b9bea9e18c034096ce11e698d9be9, type: 3}
+  introPrefab: {fileID: 5443893454052793057, guid: e35ed10d84d43824897c7725c0484540,
+    type: 3}
+  gameplayPrefab: {fileID: 7702965213989378266, guid: 93af2fd17d90aa947b1144e61b411deb,
+    type: 3}
